@@ -1,0 +1,1 @@
+python3 live_demo_tracking.py /home/u20/gitee/20220216_MCR_slow/image_0 --img_ext png --cuda
